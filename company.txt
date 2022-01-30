@@ -1,0 +1,4 @@
+anadolu	123456
+ulusoy	ulusoy
+ayhankocturizm	ankaragucu
+metro	metro
